@@ -17,11 +17,13 @@ NC='\033[0m' # No Color
 workspace="${GITHUB_WORKSPACE:-$(pwd)}"
 input_file="$workspace/allowlists.txt"
 date_str=$(date -u +'%Y-%m-%d')
+output_versioned="$workspace/allowlist_${date_str}.txt"
 output_static="$workspace/allowlist.txt"
 
 echo -e "${BLUE}Starting Pi-hole allowlist update at $(date -u)${NC}"
 echo -e "${BLUE}Reading allowlist URLs from ${input_file}${NC}"
 echo -e "${BLUE}Output will be saved to:${NC}"
+echo -e "${BLUE} - ${output_versioned}${NC}"
 echo -e "${BLUE} - ${output_static}${NC}"
 
 if [[ ! -f "$input_file" ]]; then
@@ -72,6 +74,7 @@ done < "$input_file"
 # 🧹 Sort & Save
 # ────────────────────────────────────────────────────────────────
 echo -e "${BLUE}Sorting and deduplicating domains...${NC}"
+
 echo "upload.facebook.com" >> "$temp_domains"
 echo "creative.ak.fbcdn.net >> "$temp_domains"
 echo "external-lhr0-1.xx.fbcdn.net >> "$temp_domains"
@@ -117,19 +120,28 @@ echo "rupload.facebook.com >> "$temp_domains"
 echo "l.messenger.com >> "$temp_domains"
 sort -u "$temp_domains" > "$output_static"
 
+sort -u "$temp_domains" > "$output_versioned"
+cp "$output_versioned" "$output_static"
+
 count=$(wc -l < "$output_static")
-echo -e "${GREEN}Blocklist update complete: $count domains written.${NC}"
+echo -e "${GREEN}Allowlist update complete: $count domains written.${NC}"
 echo -e "${GREEN}Static Pi-hole URL output available at: ${output_static}${NC}"
 
 # ────────────────────────────────────────────────────────────────
 # 🚀 Auto Commit (optional for GitHub Actions)
 # ────────────────────────────────────────────────────────────────
-#if [[ -n "$GITHUB_ACTIONS" ]]; then
-#  echo -e "${BLUE}Committing new allowlists to GitHub...${NC}"
-#  git config --global user.email "bot@example.com"
-#  git config --global user.name "Allowlist Bot"
-#  git add "$output_static
-#  git commit -m "Update allowlist on $date_str"
-#  git push
-#  echo -e "${GREEN}Allowlists committed and pushed.${NC}"
-#fi
+if [[ -n "$GITHUB_ACTIONS" ]]; then
+  echo -e "${BLUE}Committing new allowlists to GitHub...${NC}"
+  git config --global user.email "bot@example.com"
+  git config --global user.name "Allowlist Bot"
+
+  git add "$output_static" "$output_versioned"
+
+  if git diff --cached --quiet; then
+    echo -e "${YELLOW}No changes to commit.${NC}"
+  else
+    git commit -m "Update allowlist on $date_str"
+    git push
+    echo -e "${GREEN}Allowlists committed and pushed.${NC}"
+  fi
+fi
