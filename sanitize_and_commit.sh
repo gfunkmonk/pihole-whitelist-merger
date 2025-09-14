@@ -17,13 +17,11 @@ NC='\033[0m' # No Color
 workspace="${GITHUB_WORKSPACE:-$(pwd)}"
 input_file="$workspace/allowlists.txt"
 date_str=$(date -u +'%Y-%m-%d')
-output_versioned="$workspace/allowlist_${date_str}.txt"
 output_static="$workspace/allowlist.txt"
 
 echo -e "${BLUE}Starting Pi-hole allowlist update at $(date -u)${NC}"
 echo -e "${BLUE}Reading allowlist URLs from ${input_file}${NC}"
 echo -e "${BLUE}Output will be saved to:${NC}"
-echo -e "${BLUE} - ${output_versioned}${NC}"
 echo -e "${BLUE} - ${output_static}${NC}"
 
 if [[ ! -f "$input_file" ]]; then
@@ -117,8 +115,7 @@ echo "scontent-mia3-1.xx.fbcdn.net >> "$temp_domains"
 echo "web.facebook.com >> "$temp_domains"
 echo "rupload.facebook.com >> "$temp_domains"
 echo "l.messenger.com >> "$temp_domains"
-sort -u "$temp_domains" > "$output_versioned"
-cp "$output_versioned" "$output_static"
+sort -u "$temp_domains" > "$output_static"
 
 count=$(wc -l < "$output_static")
 echo -e "${GREEN}Blocklist update complete: $count domains written.${NC}"
