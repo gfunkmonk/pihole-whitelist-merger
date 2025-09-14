@@ -131,6 +131,7 @@ if [[ -n "$GITHUB_ACTIONS" ]]; then
   echo -e "${BLUE}Committing new allowlists to GitHub...${NC}"
   git config --global user.email "bot@example.com"
   git config --global user.name "Allowlist Bot"
+  git add "$output_static
   git commit -m "Update allowlist on $date_str"
   git push
   echo -e "${GREEN}Allowlists committed and pushed.${NC}"
