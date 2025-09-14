@@ -16,3 +16,10 @@ https://github.com/GoldieDudie/pihole-allowlist/raw/refs/heads/main/whitelist.tx
 https://github.com/sakib-m/Pi-hole-Torrent-Blocklist/raw/refs/heads/main/all-torrent-trackers.txt
 https://github.com/peta3000/pihole-lists/raw/refs/heads/main/pihole-allow-list-2025-05-09.txt
 https://raw.githubusercontent.com/m0zgen/cactusd/data/wl.txt
+https://github.com/croxtyl/pihole-blocklist/raw/refs/heads/main/whitelist/general.txt
+https://github.com/croxtyl/pihole-blocklist/raw/refs/heads/main/whitelist/tools.txt
+https://raw.githubusercontent.com/croxtyl/pihole-blocklist/refs/heads/main/whitelist/windows.txt
+https://github.com/jameshas/Public-DoH-Lists/raw/refs/heads/main/lists/doh_domains_plain.txt
+https://raw.githubusercontent.com/wranders/doh-list/master/doh-list.txt
+https://raw.githubusercontent.com/stereotypicaldev/whitelist/refs/heads/main/Whitelist/Network%20Time%20Protocol%20(NTPs).txt
+https://github.com/my-digital-life/pihole-whitelist/raw/refs/heads/main/torrent.txt
