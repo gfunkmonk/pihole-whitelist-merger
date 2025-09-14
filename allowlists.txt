@@ -1,0 +1,16 @@
+https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/gmail.txt   
+https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/google%20play.txt       
+https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/cannon%20printers.txt
+https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/twitter.txt
+https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/whatsapp.txt
+https://github.com/peta3000/pihole-lists/raw/refs/heads/main/pihole-allow-list-2025-05-09.txt
+https://github.com/TimInTech/Whitelist/raw/refs/heads/main/Whitelist.final.personal.txt
+https://github.com/ArwenPaula/pihole-whitelist/raw/refs/heads/main/whitelist.txt
+https://github.com/KaiserStefanI/Pihole-whitelist/raw/refs/heads/main/Pihole-whitelist.txt
+https://github.com/PeterDaveHello/url-shorteners/raw/refs/heads/master/list
+https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/list-domains.txt
+https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/android-basic-allowlist.txt
+https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/streaming/spotify.txt
+https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/social-media/meta_facebook_allowlist.txt
+https://github.com/GoldieDudie/pihole-allowlist/raw/refs/heads/main/whitelist.txt
+https://github.com/sakib-m/Pi-hole-Torrent-Blocklist/raw/refs/heads/main/all-torrent-trackers.txt
