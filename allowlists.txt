@@ -14,3 +14,5 @@ https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/streaming/s
 https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/social-media/meta_facebook_allowlist.txt
 https://github.com/GoldieDudie/pihole-allowlist/raw/refs/heads/main/whitelist.txt
 https://github.com/sakib-m/Pi-hole-Torrent-Blocklist/raw/refs/heads/main/all-torrent-trackers.txt
+https://github.com/peta3000/pihole-lists/raw/refs/heads/main/pihole-allow-list-2025-05-09.txt
+https://raw.githubusercontent.com/m0zgen/cactusd/data/wl.txt
