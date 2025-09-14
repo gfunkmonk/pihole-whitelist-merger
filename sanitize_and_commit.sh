@@ -131,14 +131,7 @@ if [[ -n "$GITHUB_ACTIONS" ]]; then
   echo -e "${BLUE}Committing new allowlists to GitHub...${NC}"
   git config --global user.email "bot@example.com"
   git config --global user.name "Blocklist Bot"
-
-  git add "$output_static"
-
-  if git diff --cached --quiet; then
-    echo -e "${YELLOW}No changes to commit.${NC}"
-  else
-    git commit -m "Update allowlist on $date_str"
-    git push
-    echo -e "${GREEN}Blocklists committed and pushed.${NC}"
-  fi
+  git commit -m "Update allowlist on $date_str"
+  git push
+  echo -e "${GREEN}Blocklists committed and pushed.${NC}"
 fi
