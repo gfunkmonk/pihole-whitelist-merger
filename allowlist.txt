@@ -829,6 +829,7 @@ dk.rog.gg
 dkng.co
 dky.bz
 dl.delivery.mp.microsoft.com
+dl.dropbox.com
 dl.dropboxusercontent.com
 dl.flathub.org
 dl.gl
@@ -880,6 +881,7 @@ dwz.tax
 dxc.to
 dy.fi
 dy.si
+dynupdate.no-ip.com
 dzen.ru
 e.customeriomail.com
 e.lilly
@@ -1092,6 +1094,7 @@ ghkp.us
 gi.lt
 gigaz.in
 giphy-proxy-production.whispersystems.org
+giphy.com
 git-scm.com
 git.io
 git.vulnix.sh
@@ -1168,6 +1171,7 @@ googleapis.com
 googleapis.l.google.com
 googlehomefoyer-pa.clients6.google.com
 googlehomefoyer-pa.googleapis.com
+googlehosted.l.googleusercontent.com
 googleoptimize.com
 googletagmanager.com
 googleusercontent.com
@@ -1188,6 +1192,7 @@ graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
 graph.microsoft.com
+graph.oculus.com
 graph.whatsapp.com
 graph.whatsapp.net
 graph.windows.net
@@ -1515,6 +1520,7 @@ lenta.ru
 letsencrypt.org
 letsharu.cc
 lft.to
+lh3.googleusercontent.com
 licensing.xboxlive.com
 lih.kg
 lihi.biz
@@ -1754,6 +1760,7 @@ msi.gm
 msidentity.com
 mssdk-va.tiktok.com
 mstr.cl
+mtalk.googel.com
 mtalk.google.com
 mttr.io
 mub.me
@@ -1837,6 +1844,7 @@ notion.so
 notlong.com
 novaopcj.icu
 nr.tn
+nrdp.prod.cloud.netflix.com
 ns-1.x-fins.com
 ns1.com
 ns1.dropbox.com
@@ -1937,6 +1945,7 @@ open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
 open.nyap2p.com
+open.spotify.com
 open.stealth.si
 open.touki.ru
 open.tracker.cl
@@ -2039,6 +2048,7 @@ play-fe.googleapis.com
 play-lh.googleusercontent.com
 play.google.com
 play.googleapis.com
+play.spotify.edgekey.net
 players.pluto.tv
 playrix.com
 pldthome.info
@@ -2248,6 +2258,7 @@ rol.st
 rollbar.com
 rotf.lol
 router.local
+rover.ebay.com
 rozhl.as
 rpf.io
 rptl.io
@@ -2334,6 +2345,7 @@ seagate.media
 sealed.in
 secure-eu.nmrodam.com
 secure.globalsign.com
+secure.netflix.com
 secure.pow7.com
 securepubads.g.doubleclick.net
 secureworld.io
@@ -2976,6 +2988,7 @@ tvthemes.plexapp.com.cdn.cloudflare.net
 tw.rog.gg
 tw.sv
 twb.nz
+twimg.com
 twitter.com
 twm5g.co
 twou.co
@@ -3028,6 +3041,7 @@ uoft.me
 uopeople.qualtrics.com
 up.to
 update.code.visualstudio.com
+update.nanoav.ru
 update.tailscale.com
 update.tektonit.ru
 updates-http.cdn-apple.com
@@ -3038,7 +3052,7 @@ updates.proxmox.com
 updates.signal.org
 updates2.signal.org
 upload.facebook.com
-upload.facebook.comcreative.ak.fbcdn.netexternal-lhr0-1.xx.fbcdn.netexternal-lhr1-1.xx.fbcdn.netexternal-lhr10-1.xx.fbcdn.netexternal-lhr2-1.xx.fbcdn.netexternal-lhr3-1.xx.fbcdn.netexternal-lhr4-1.xx.fbcdn.netexternal-lhr5-1.xx.fbcdn.netexternal-lhr6-1.xx.fbcdn.netexternal-lhr7-1.xx.fbcdn.netexternal-lhr8-1.xx.fbcdn.netexternal-lhr9-1.xx.fbcdn.netfbcdn-creative-a.akamaihd.netscontent-lhr3-1.xx.fbcdn.netscontent.xx.fbcdn.netscontent.fgdl5-1.fna.fbcdn.netgraph.facebook.comb-graph.facebook.comconnect.facebook.comcdn.fbsbx.comapi.facebook.comedge-mqtt.facebook.commqtt.c10r.facebook.comportal.fb.comstar.c10r.facebook.comstar-mini.c10r.facebook.comb-api.facebook.comfb.mebigzipfiles.facebook.coml.facebook.comwww.facebook.comscontent-atl3-1.xx.fbcdn.netstatic.xx.fbcdn.netedge-chat.messenger.comvideo.xx.fbcdn.netexternal-ort2-1.xx.fbcdn.netscontent-ort2-1.xx.fbcdn.netedge-chat.facebook.comscontent-mia3-1.xx.fbcdn.netweb.facebook.comrupload.facebook.coml.messenger.comandroid.clients.google.commtalk.googel.comwa.medl.dropbox.comdl.dropboxusercontent.comrover.ebay.comgraph.instagram.comgraph.oculus.comgiphy.comdl.google.comgoo.glgooglehosted.l.googleusercontent.complay-lh.googleusercontent.comupdate.nanoav.rustorage.live.comwikipedia.orgnetflix.comsecure.netflix.comnrdp.prod.cloud.netflix.comwin10.prod.http1.netflix.comdynupdate.no-ip.comlh3.googleusercontent.complay.spotify.edgekey.netopen.spotify.comt.cotwimg.combit.lytinyurl.comwww.adf.ly
+upload.facebook.comcreative.ak.fbcdn.net
 upload.twitter.com
 upmchp.us
 uptimerobot.com
@@ -3191,7 +3205,9 @@ whr.tn
 wi.se
 wialon.com
 wideangle.co
+wikipedia.org
 win.gs
+win10.prod.http1.netflix.com
 wit.to
 wjcf.co
 wkf.ms
@@ -3219,6 +3235,7 @@ www.3dvf.com
 www.ably.io
 www.accuweather.com
 www.acompli.com
+www.adf.ly
 www.akab.kz
 www.akorda.kz
 www.all4nothin.net
