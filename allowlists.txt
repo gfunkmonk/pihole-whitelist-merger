@@ -23,3 +23,4 @@ https://github.com/jameshas/Public-DoH-Lists/raw/refs/heads/main/lists/doh_domai
 https://raw.githubusercontent.com/wranders/doh-list/master/doh-list.txt
 https://raw.githubusercontent.com/stereotypicaldev/whitelist/refs/heads/main/Whitelist/Network%20Time%20Protocol%20(NTPs).txt
 https://github.com/my-digital-life/pihole-whitelist/raw/refs/heads/main/torrent.txt
+https://github.com/mi-rpi/pihole-adblock/raw/refs/heads/main/whitelist/03-custom.txt
