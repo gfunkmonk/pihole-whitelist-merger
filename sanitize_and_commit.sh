@@ -140,7 +140,7 @@ if [[ -n "$GITHUB_ACTIONS" ]]; then
     echo -e "${YELLOW}No changes to commit.${NC}"
   else
     git commit -m "Update allowlist on $date_str"
-    git push
+    git push --force
     echo -e "${GREEN}Allowlists committed and pushed.${NC}"
   fi
 fi
