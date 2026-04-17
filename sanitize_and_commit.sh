@@ -164,6 +164,22 @@ if [[ -n "$GITHUB_ACTIONS" ]]; then
 
   git add "$output_static" "$output_versioned"
 
+  # ────────────────────────────────────────────────────────────────
+  # 🗑️ Cleanup old backups (keep only last 3 days)
+  # ────────────────────────────────────────────────────────────────
+  cutoff=$(date -u -d '2 days ago' +'%Y-%m-%d')
+  echo -e "${BLUE}Removing versioned backups older than $cutoff ...${NC}"
+  for f in "$workspace"/blocklist_[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].txt; do
+    [[ -f "$f" ]] || continue
+    fname=$(basename "$f")
+    file_date="${fname#blocklist_}"
+    file_date="${file_date%.txt}"
+    if [[ "$file_date" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] && [[ "$file_date" < "$cutoff" ]]; then
+      echo -e "${YELLOW}Removing old backup: $fname${NC}"
+      git rm "$f"
+    fi
+  done
+
   if git diff --cached --quiet; then
     echo -e "${YELLOW}No changes to commit.${NC}"
   else
