@@ -1,26 +1,3 @@
-https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/gmail.txt   
-https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/google%20play.txt       
-https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/cannon%20printers.txt
-https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/twitter.txt
-https://github.com/CubeBeveled/pihole-allowlist/raw/refs/heads/main/adblock/whatsapp.txt
-https://github.com/peta3000/pihole-lists/raw/refs/heads/main/pihole-allow-list-2025-05-09.txt
-https://github.com/TimInTech/Whitelist/raw/refs/heads/main/Whitelist.final.personal.txt
-https://github.com/ArwenPaula/pihole-whitelist/raw/refs/heads/main/whitelist.txt
-https://github.com/KaiserStefanI/Pihole-whitelist/raw/refs/heads/main/Pihole-whitelist.txt
-https://github.com/PeterDaveHello/url-shorteners/raw/refs/heads/master/list
-https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/list-domains.txt
-https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/android-basic-allowlist.txt
-https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/streaming/spotify.txt
-https://github.com/SystemJargon/allowlists/raw/refs/heads/main/lists/social-media/meta_facebook_allowlist.txt
-https://github.com/GoldieDudie/pihole-allowlist/raw/refs/heads/main/whitelist.txt
-https://github.com/sakib-m/Pi-hole-Torrent-Blocklist/raw/refs/heads/main/all-torrent-trackers.txt
-https://github.com/peta3000/pihole-lists/raw/refs/heads/main/pihole-allow-list-2025-05-09.txt
-https://raw.githubusercontent.com/m0zgen/cactusd/data/wl.txt
-https://github.com/croxtyl/pihole-blocklist/raw/refs/heads/main/whitelist/general.txt
-https://github.com/croxtyl/pihole-blocklist/raw/refs/heads/main/whitelist/tools.txt
-https://raw.githubusercontent.com/croxtyl/pihole-blocklist/refs/heads/main/whitelist/windows.txt
-https://github.com/jameshas/Public-DoH-Lists/raw/refs/heads/main/lists/doh_domains_plain.txt
-https://raw.githubusercontent.com/wranders/doh-list/master/doh-list.txt
-https://raw.githubusercontent.com/stereotypicaldev/whitelist/refs/heads/main/Whitelist/Network%20Time%20Protocol%20(NTPs).txt
-https://github.com/my-digital-life/pihole-whitelist/raw/refs/heads/main/torrent.txt
-https://github.com/mi-rpi/pihole-adblock/raw/refs/heads/main/whitelist/03-custom.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ddfa002899e4143d3d5949913af840b0b63f9f390efd04d954623df9902e16
+size 2341
