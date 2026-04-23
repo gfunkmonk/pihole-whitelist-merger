@@ -435,6 +435,9 @@ bancodegaliciaybuenosairessau.data.adobedc.net
 bandito.byterunner.io
 baratun.de
 base.dns.mullvad.net
+base44-apps.com
+base44.app
+base44.com
 basic.bravedns.com
 basic.rethinkdns.com
 bayareane.ws
@@ -502,6 +505,8 @@ blizz.ly
 blocklist.rkn.gov.ru
 blog.hypr.com
 blog.kimiblock.top
+blogger.com
+blogspot.com
 blokas.io
 bloom.bg
 blstg.news
@@ -670,6 +675,7 @@ chanchan.uchuu.co.uk
 chandr1000.net
 chat.com
 chat.signal.org
+chat.z.ai
 chatgpt.com
 chatra.io
 chihaya.de
@@ -1948,6 +1954,7 @@ jp.tiar.app
 jp.tiarap.org
 jpeg.ly
 js.createsend1.com
+js.hsforms.net
 jsb.by
 json.bild.de
 juuri.hagezi.org
@@ -2151,6 +2158,7 @@ logincert.microsoftonline.com
 loginex.microsoftonline.com
 logrocket.com
 lohud.us
+lolz.live
 lon01.dnscry.pt
 lonerwolf.co
 loom.ly
@@ -2172,6 +2180,7 @@ lv1.nixnet.xyz
 lyksoomu.com
 lync.com
 lzd.co
+lzt.market
 m.bild.de
 m.do.co
 m.dzen.ru
@@ -2238,6 +2247,7 @@ medallia.com
 media-exp1.licdn.com
 media.24h.tv
 media.azure.net
+media.base44.com
 media.tenor.co
 media0.giphy.com
 media1.giphy.com
@@ -2865,6 +2875,7 @@ reminders-pa.googleapis.com
 renardbleu.dev
 renew.ge
 replug.link
+report.error-report.com
 res-acst3.absolight.net
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -2955,6 +2966,7 @@ rupload.facebook.com
 rushgiving.com
 rutor.is
 rutorrent.frontline-mod.com
+rutracker.org
 rvtv.io
 rvwd.co
 rwl.io
@@ -3082,6 +3094,7 @@ share.hkg-fansub.info
 sharepointonline.com
 shepherd.avcdn.net
 shiny.link
+shitblocker.com
 shln.me
 shnflac.net
 sho.pe
@@ -3359,6 +3372,7 @@ telemetry.sgp.pvp.net
 telemetryservice.firstpartyapps.oaspapps.com
 teleport.media
 telesco.pe
+teletype.in
 temu.to
 tenor.com
 ter.li
@@ -3841,6 +3855,7 @@ update.tektonit.ru
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 updates2.signal.org
+upload.ee
 upload.facebook.com
 upload.facebook.comcreative.ak.fbcdn.net
 upload.twitter.com
@@ -4091,6 +4106,8 @@ www.atradius.com
 www.aysa.com.ar
 www.azh.kz
 www.badoo.com
+www.base44.app
+www.base44.com
 www.behance.net
 www.bekker.kz
 www.bild.de
@@ -4100,6 +4117,8 @@ www.bing.com
 www.bitpay.com
 www.bitrix.info
 www.bk.ru
+www.blogger.com
+www.blogspot.com
 www.bna.com.ar
 www.branch.io
 www.braze.com
@@ -4205,8 +4224,10 @@ www.linksynergy.com
 www.list.ru
 www.livechatinc.com
 www.loggly.com
+www.lolz.live
 www.loushao.net
 www.lunio.ai
+www.lzt.market
 www.mackeeper.com
 www.macsecurity.net
 www.mail.rambler.ru
@@ -4284,6 +4305,7 @@ www.reg.ru
 www.rmansys.ru
 www.rollbar.com
 www.rutor.is
+www.rutracker.org
 www.samokat.ru
 www.samsclass.info
 www.scdn.co
@@ -4320,6 +4342,7 @@ www.sysdig.com
 www.tadviser.ru
 www.tamos-education.kz
 www.tektonit.ru
+www.teletype.in
 www.testter.kz
 www.timeweb.ru
 www.torrent.eu.org
@@ -4331,6 +4354,7 @@ www.uber.com
 www.ublock.org
 www.ultahost.com
 www.unisender.com
+www.upload.ee
 www.uptimerobot.com
 www.urbanculture.pro
 www.vdsina.ru
@@ -4361,6 +4385,7 @@ www.youtube-nocookie.com
 www.youtube.com
 www.ytcracker.com
 www.yurta.me
+www.z.ai
 www.zakazbuketov.kz
 www.zoom.us
 www3.haivision.com
@@ -4428,6 +4453,7 @@ yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
 z-m-graph.facebook.com
+z.ai
 z.mercax.com
 z23.ru
 zakazbuketov.kz
