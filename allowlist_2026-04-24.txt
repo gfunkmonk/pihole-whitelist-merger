@@ -435,6 +435,9 @@ bancodegaliciaybuenosairessau.data.adobedc.net
 bandito.byterunner.io
 baratun.de
 base.dns.mullvad.net
+base44-apps.com
+base44.app
+base44.com
 basic.bravedns.com
 basic.rethinkdns.com
 bayareane.ws
@@ -1387,6 +1390,7 @@ enshom.link
 entitlement.auth.adobe.com
 entm.ag
 entrust.net
+envios.mercadolibre.com.ar
 envs.sh
 epochtim.es
 ept.ms
@@ -2244,6 +2248,7 @@ medallia.com
 media-exp1.licdn.com
 media.24h.tv
 media.azure.net
+media.base44.com
 media.tenor.co
 media0.giphy.com
 media1.giphy.com
@@ -4102,6 +4107,8 @@ www.atradius.com
 www.aysa.com.ar
 www.azh.kz
 www.badoo.com
+www.base44.app
+www.base44.com
 www.behance.net
 www.bekker.kz
 www.bild.de
