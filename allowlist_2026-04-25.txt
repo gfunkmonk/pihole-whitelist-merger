@@ -1390,6 +1390,7 @@ enshom.link
 entitlement.auth.adobe.com
 entm.ag
 entrust.net
+envios.mercadolibre.com.ar
 envs.sh
 epochtim.es
 ept.ms
