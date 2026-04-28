@@ -391,6 +391,7 @@ audio4-ak-spotify-com.akamaized.net
 audio4-fa.scdn.co
 auth.gcore.com
 auth.gfx.ms
+auth.mercadolibre.com.ar
 auth.openai.com
 auth.split.io
 auth0.openai.com
