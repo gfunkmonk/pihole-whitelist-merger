@@ -391,6 +391,7 @@ audio4-ak-spotify-com.akamaized.net
 audio4-fa.scdn.co
 auth.gcore.com
 auth.gfx.ms
+auth.mercadolibre.com.ar
 auth.openai.com
 auth.split.io
 auth0.openai.com
@@ -1491,6 +1492,7 @@ firestore.googleapis.com
 firstpartyapps.oaspapps.com
 firsturl.de
 firsturl.net
+firstvds.ru
 flic.kr
 flip.it
 flomuz.io
@@ -3945,6 +3947,7 @@ vip.1gl.ru
 viraln.co
 virga.pp.ua
 vito-tracker.duckdns.org
+vito-tracker.space
 vivo.tl
 vk.cc
 vk.com
@@ -4167,6 +4170,7 @@ www.fast.com
 www.filelu.com
 www.filmweb.pl
 www.findmykids.org
+www.firstvds.ru
 www.forte.bank
 www.ft.com
 www.genesis-sp.org
