@@ -666,6 +666,7 @@ cdn.wccftech.com
 cdnjs.cloudflare.com
 centi.ai
 ceramogranit.kz
+cerf.cs.umd.edu
 cert.int-x3.letsencrypt.org
 cert.mgt.xboxlive.com
 cfl.re
@@ -1032,7 +1033,6 @@ dns.clanless.ovh
 dns.cloudflare.com
 dns.cmrg.net
 dns.comss.one
-dns.csa-rz.de
 dns.csaonline.de
 dns.cynthialabs.net
 dns.d94.xyz
@@ -1061,7 +1061,6 @@ dns.feldy.my.id
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flymc.cc
-dns.foxyfy.net
 dns.freyja.pw
 dns.froth.zone
 dns.gamban.com
@@ -1298,7 +1297,6 @@ doh.viatech.com.tw
 doh.westus.pi-dns.com
 doh.xcom.pro
 doh.xfinity.com
-doh.zknt.org
 doh.zln.wtf
 doh1.b-cdn.net
 doh1.blahdns.com
