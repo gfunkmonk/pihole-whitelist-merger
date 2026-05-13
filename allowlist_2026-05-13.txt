@@ -3797,6 +3797,7 @@ txdl.top
 txul.cn
 tyo01.dnscry.pt
 u.nu
+u.peer-exchange.download
 u.shxj.pw
 u.to
 u.wwwww.wtf
@@ -3813,6 +3814,7 @@ ubr.to
 ucbexed.org
 ucla.in
 ud-chat.signal.org
+udp.trackarr.org
 udp.tracker.projectk.org
 udp1.torrust-tracker-demo.com
 ufcqc.link
