@@ -3496,6 +3496,7 @@ tr-zhuqiy-2.dgj055.icu
 tr.abiir.top
 tr.abir.ga
 tr.bangumi.moe
+tr.btube3.com
 tr.cili001.com
 tr.ee
 tr.highstar.shop
@@ -3527,6 +3528,7 @@ tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
+tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.belmult.online
@@ -3925,6 +3927,7 @@ v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 v6.rubyfish.cn
+v6.vito-tracker.space
 v74853.hosted-by-vdsina.com
 valakas.rollo.dnsabr.com
 valid.apple.com
