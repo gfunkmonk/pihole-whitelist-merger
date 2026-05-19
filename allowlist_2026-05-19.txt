@@ -249,6 +249,7 @@ android.clients.google.com
 android.com
 android.googleapis.com
 anidex.moe
+anime-tracker.aruku.kro.kr
 anna.bt.bontal.net
 anon.to
 ant.dns.qwer.pw
@@ -3528,6 +3529,7 @@ tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
+tracker.aruku.ovh
 tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
@@ -3927,6 +3929,7 @@ v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 v6.rubyfish.cn
+v6.vito-tracker.space
 v74853.hosted-by-vdsina.com
 valakas.rollo.dnsabr.com
 valid.apple.com
