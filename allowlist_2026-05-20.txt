@@ -249,6 +249,7 @@ android.clients.google.com
 android.com
 android.googleapis.com
 anidex.moe
+anime-tracker.aruku.kro.kr
 anna.bt.bontal.net
 anon.to
 ant.dns.qwer.pw
@@ -3528,6 +3529,7 @@ tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
+tracker.aruku.ovh
 tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
