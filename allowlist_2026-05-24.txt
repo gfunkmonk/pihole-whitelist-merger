@@ -1064,6 +1064,7 @@ dns.floriantinney.de
 dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
+dns.furrix.zone
 dns.gamban.com
 dns.glf.wtf
 dns.gnb09.id
