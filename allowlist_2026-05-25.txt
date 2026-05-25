@@ -1064,6 +1064,7 @@ dns.floriantinney.de
 dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
+dns.furrix.zone
 dns.gamban.com
 dns.glf.wtf
 dns.gnb09.id
@@ -1203,6 +1204,7 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-ch.blahdns.com
 doh-de.blahdns.com
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-fi.blahdns.com
 doh-ipv6.crypto.sx
 doh-jp.blahdns.com
@@ -1210,6 +1212,7 @@ doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.18bit.cn
 doh.360.cn
@@ -3526,6 +3529,7 @@ tracker.alaskantf.com
 tracker.aletorrenty.pl
 tracker.ali213.net
 tracker.altrosky.nl
+tracker.anibt.net
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
