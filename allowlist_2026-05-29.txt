@@ -156,7 +156,6 @@ adblock.doh.mullvad.net
 adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
-adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adbtc.top
 addns1.m-it.ro
@@ -164,7 +163,6 @@ addons-pa.clients6.google.com
 adfoc.us
 adfree.usableprivacy.net
 adfreedns.top
-adg.geili.me
 adg.tshost.no
 adguard.avdkishore.dev
 adguard.jfchenier.ca
@@ -1061,7 +1059,6 @@ dns.farshidhakimy.de
 dns.feldy.my.id
 dns.flatuslifir.is
 dns.floriantinney.de
-dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
 dns.furrix.zone
@@ -1132,7 +1129,6 @@ dns.sb
 dns.seia.io
 dns.sev.monster
 dns.shecan.ir
-dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
 dns.sitdns.com
@@ -1142,7 +1138,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.suhaila.dev
 dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
@@ -1454,7 +1449,6 @@ family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.freedns.controld.com
-family.mydns.network
 family.rabbitdns.org
 fandan.co
 fandom.link
@@ -1534,7 +1528,6 @@ free.bravedns.com
 free.shecan.ir
 freebitco.in
 freedns.controld.com
-freedom.mydns.network
 frog.dns.qwer.pw
 frontend.mercadolibre.com
 fstrk.cc
@@ -2641,7 +2634,6 @@ pages.awscloud.com
 pages.hitachivantara.com
 paloaltonetworks.com
 par01.dnscry.pt
-paranoia.mydns.network
 parcel-api.delivery.hm.com
 pardot.com
 passport.dzen.ru
@@ -2889,11 +2881,9 @@ resolver.rferee.dev
 resolver.sunet.se
 resolver.unstoppable.io
 resolver1-fs.opendns.com
-resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
 resolver2-fs.opendns.com
-resolver2.absolight.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
 resolver3.absolight.net
@@ -3098,7 +3088,6 @@ share.hkg-fansub.info
 sharepointonline.com
 shepherd.avcdn.net
 shiny.link
-shitblocker.com
 shln.me
 shnflac.net
 sho.pe
