@@ -2,6 +2,7 @@
 004430.xyz
 0123456789nonexistent.com
 0205.uptm.ch
+021912.xyz
 02faq.com
 0a.sk
 0d.kebhana.mx
@@ -9,7 +10,6 @@
 1.tracker.eu.org
 101.gg
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-123000123.xyz
 12ne.ws
 1337.abcvg.info
 1616.ro
@@ -431,6 +431,7 @@ b23.tv
 b2n.ir
 badoo.com
 baibako.tv
+banananetwork.qzz.io
 bancodegaliciaybuenosairessau.data.adobedc.net
 bandito.byterunner.io
 baratun.de
@@ -1154,7 +1155,6 @@ dns.vaioswolke.xyz
 dns.w3ctag.org
 dns.wang.art
 dns.xlion.tw
-dns.yuu-g.net
 dns0.eu
 dns01.flm9.net
 dns1.digitale-gesellschaft.ch
@@ -1204,7 +1204,6 @@ doh-ipv6.crypto.sx
 doh-jp.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-pure.onedns.net
-doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.18bit.cn
 doh.360.cn
@@ -2591,6 +2590,7 @@ oran.ge
 orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
+orgtgju.org
 orlo.uk
 osdb.link
 oshi.at
