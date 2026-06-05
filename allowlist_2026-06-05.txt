@@ -10,7 +10,6 @@
 1.tracker.eu.org
 101.gg
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-123000123.xyz
 12ne.ws
 1337.abcvg.info
 1616.ro
@@ -250,6 +249,7 @@ android.googleapis.com
 anidex.moe
 anime-tracker.aruku.kro.kr
 anna.bt.bontal.net
+announce.sktorrent.eu
 anon.to
 ant.dns.qwer.pw
 antivirus.bebasid.com
@@ -1116,7 +1116,6 @@ dns.pub
 dns.pumplex.com
 dns.quad9.net
 dns.quiet.rocks
-dns.rabbitdns.org
 dns.rbn.gr
 dns.reckoningslug.name
 dns.redhosting.com.ar
@@ -1448,7 +1447,6 @@ family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.freedns.controld.com
-family.rabbitdns.org
 fandan.co
 fandom.link
 fandw.me
@@ -2964,7 +2962,6 @@ rutracker.org
 rvtv.io
 rvwd.co
 rwl.io
-rx.techomespace.com
 ryml.me
 rzr.to
 s.accupass.com
@@ -3051,7 +3048,6 @@ secure.pow7.com
 secureworld.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
-security.rabbitdns.org
 seeders-paradise.org
 seedpeer.net
 seedsta.rs
