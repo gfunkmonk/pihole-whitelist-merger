@@ -2196,6 +2196,7 @@ mail.protection.outlook.com
 mail.rambler.ru
 mail.realliferpg.de
 mail.ru
+mail.segso.net
 mail2.zelenaya.net
 mailer.amlegion.org
 mailkyb.co
@@ -3521,6 +3522,7 @@ tracker.auctor.tv
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.belmult.online
+tracker.bigbewbs.online
 tracker.birkenwald.de
 tracker.bitcoinindia.space
 tracker.bittor.pw
@@ -3549,6 +3551,7 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
+tracker.dorcus.digital
 tracker.ds.is
 tracker.ducks.party
 tracker.dutchtracking.nl
@@ -3690,6 +3693,7 @@ tracker.torrentsnows.com
 tracker.torrenty.org
 tracker.torrentyorg.pl
 tracker.torrust-demo.com
+tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
