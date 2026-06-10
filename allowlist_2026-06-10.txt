@@ -924,6 +924,7 @@ ddg.gg
 de-f1.foxyfy.net
 de.ioam.de
 de01.dns4me.net
+de7c0e7a567e.sn.mynetname.net
 deb.li
 debugbear.com
 dee.pl
@@ -2196,6 +2197,7 @@ mail.protection.outlook.com
 mail.rambler.ru
 mail.realliferpg.de
 mail.ru
+mail.segso.net
 mail2.zelenaya.net
 mailer.amlegion.org
 mailkyb.co
@@ -2428,7 +2430,6 @@ ns0.fdn.fr
 ns1.com
 ns1.dropbox.com
 ns1.fdn.fr
-ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns2.4netguides.org
