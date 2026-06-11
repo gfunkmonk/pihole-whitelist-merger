@@ -369,7 +369,6 @@ ast.bild.de
 asus.click
 at.vibe.com
 atameken.kz
-ath01.dnscry.pt
 atl01.dnscry.pt
 atlitis.com
 atm.tk
@@ -924,6 +923,7 @@ ddg.gg
 de-f1.foxyfy.net
 de.ioam.de
 de01.dns4me.net
+de7c0e7a567e.sn.mynetname.net
 deb.li
 debugbear.com
 dee.pl
@@ -1154,7 +1154,6 @@ dns.uplenk.com
 dns.vaioswolke.xyz
 dns.w3ctag.org
 dns.wang.art
-dns.xlion.tw
 dns0.eu
 dns01.flm9.net
 dns1.digitale-gesellschaft.ch
@@ -2429,7 +2428,6 @@ ns0.fdn.fr
 ns1.com
 ns1.dropbox.com
 ns1.fdn.fr
-ns1.opennameserver.org
 ns1.qquack.org
 ns1.recursive.dnsbycomodo.com
 ns2.4netguides.org
