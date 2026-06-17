@@ -2693,7 +2693,6 @@ pldthome.info
 plex.tv
 plu.sh
 plus.1fd.ru
-pluton.plan9-dns.com
 pns-sdk.opera-api.com
 pnsne.ws
 pod.fo
