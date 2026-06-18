@@ -1034,7 +1034,6 @@ dns.clanless.ovh
 dns.cloudflare.com
 dns.cmrg.net
 dns.comss.one
-dns.csaonline.de
 dns.cynthialabs.net
 dns.d94.xyz
 dns.datenquark.de
@@ -2693,7 +2692,6 @@ pldthome.info
 plex.tv
 plu.sh
 plus.1fd.ru
-pluton.plan9-dns.com
 pns-sdk.opera-api.com
 pnsne.ws
 pod.fo
