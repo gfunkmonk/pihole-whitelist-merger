@@ -1034,7 +1034,6 @@ dns.clanless.ovh
 dns.cloudflare.com
 dns.cmrg.net
 dns.comss.one
-dns.csaonline.de
 dns.cynthialabs.net
 dns.d94.xyz
 dns.datenquark.de
