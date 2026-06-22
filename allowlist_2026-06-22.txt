@@ -1303,12 +1303,14 @@ dorma.com
 dot.occ.top
 doth.huque.com
 download.electrum.org
+download.internetdownloadmanager.com
 download.maxmind.com
 download.megaup.net
 download.nullsoft.com
 download.sonarr.tv
 download.visualstudio.microsoft.com
 download.windowsupdate.com
+download1346.mediafire.com
 dpiui.reedlan.com
 dpmd.ai
 dpo.st
@@ -1773,6 +1775,7 @@ href.li
 hst-api.wialon.com
 hst-api.wialon.ru
 ht.ly
+ht.therarbg.to
 htgb.co
 htl.li
 htn.to
@@ -3815,6 +3818,7 @@ ugp.io
 ui.skype.com
 ui8.ru
 uii.io
+uiil.ink
 uk.rog.gg
 uk01.dns4me.net
 ukf.me
