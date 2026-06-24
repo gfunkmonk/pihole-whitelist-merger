@@ -1303,12 +1303,14 @@ dorma.com
 dot.occ.top
 doth.huque.com
 download.electrum.org
+download.internetdownloadmanager.com
 download.maxmind.com
 download.megaup.net
 download.nullsoft.com
 download.sonarr.tv
 download.visualstudio.microsoft.com
 download.windowsupdate.com
+download1346.mediafire.com
 dpiui.reedlan.com
 dpmd.ai
 dpo.st
@@ -1773,6 +1775,7 @@ href.li
 hst-api.wialon.com
 hst-api.wialon.ru
 ht.ly
+ht.therarbg.to
 htgb.co
 htl.li
 htn.to
@@ -3533,6 +3536,7 @@ tracker.btsync.gq
 tracker.bug38.com
 tracker.bz
 tracker.cangku.moe
+tracker.cbase.cc
 tracker.chaoz.li
 tracker.cloudbase.store
 tracker.coppersurfer.tk
@@ -3590,6 +3594,7 @@ tracker.home.kmzs123.cn
 tracker.huadongblower.xyz
 tracker.iamhansen.xyz
 tracker.idocdn.com
+tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.iochimari.moe
@@ -3635,6 +3640,7 @@ tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentorrent.top
 tracker.opentracker.se
+tracker.opentrackr.com
 tracker.opentrackr.org
 tracker.orsvarn.com
 tracker.parrotlinux.org
@@ -3815,6 +3821,7 @@ ugp.io
 ui.skype.com
 ui8.ru
 uii.io
+uiil.ink
 uk.rog.gg
 uk01.dns4me.net
 ukf.me
