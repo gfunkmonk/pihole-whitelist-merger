@@ -1702,7 +1702,6 @@ grifon.info
 grm.my
 grnh.se
 group.atradius.com
-gru01.dnscry.pt
 gs.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
@@ -3536,6 +3535,7 @@ tracker.btsync.gq
 tracker.bug38.com
 tracker.bz
 tracker.cangku.moe
+tracker.cbase.cc
 tracker.chaoz.li
 tracker.cloudbase.store
 tracker.coppersurfer.tk
@@ -3593,6 +3593,7 @@ tracker.home.kmzs123.cn
 tracker.huadongblower.xyz
 tracker.iamhansen.xyz
 tracker.idocdn.com
+tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.iochimari.moe
@@ -3638,6 +3639,7 @@ tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentorrent.top
 tracker.opentracker.se
+tracker.opentrackr.com
 tracker.opentrackr.org
 tracker.orsvarn.com
 tracker.parrotlinux.org
