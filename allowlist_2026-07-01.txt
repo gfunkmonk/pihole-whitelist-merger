@@ -30,6 +30,7 @@
 2.ht
 2.ly
 2.tracker.eu.org
+24brost.kz
 24smi.org
 2doc.net
 2fear.com
@@ -156,6 +157,7 @@ adblock.doh.mullvad.net
 adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
+adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adbtc.top
 addns1.m-it.ro
@@ -681,6 +683,7 @@ chat.signal.org
 chat.z.ai
 chatgpt.com
 chatra.io
+chernaya100.com
 chihaya.de
 chihaya.toss.li
 child-noads.joindns4.eu
@@ -1313,6 +1316,7 @@ download.visualstudio.microsoft.com
 download.windowsupdate.com
 download1346.mediafire.com
 dpiui.reedlan.com
+dpksklad.kz
 dpmd.ai
 dpo.st
 drivefrontend-pa.clients6.google.com
@@ -1347,6 +1351,7 @@ e673.dscx.akamaiedge.net
 ea-dns.rubyfish.cn
 eais.rkn.gov.ru
 eastus.livediagnostics.monitor.azure.com
+easylist-downloads.adblockplus.org
 ebay.to
 echostar.ddnsfree.com
 ecn.dev.virtualearth.net
@@ -1448,6 +1453,7 @@ family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.freedns.controld.com
+family.mydns.network
 fandan.co
 fandom.link
 fandw.me
@@ -1526,6 +1532,7 @@ free.bravedns.com
 free.shecan.ir
 freebitco.in
 freedns.controld.com
+freedom.mydns.network
 frog.dns.qwer.pw
 frontend.mercadolibre.com
 fstrk.cc
@@ -1928,6 +1935,7 @@ ivi.ru
 ivi.tv
 ivnkn.xyz
 ix.sk
+izap24.kz
 j.gs
 j.mp
 ja.cat
@@ -2633,6 +2641,7 @@ pages.awscloud.com
 pages.hitachivantara.com
 paloaltonetworks.com
 par01.dnscry.pt
+paranoia.mydns.network
 parcel-api.delivery.hm.com
 pardot.com
 passport.dzen.ru
@@ -3602,6 +3611,7 @@ tracker.iperson.xyz
 tracker.iplocation.net
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
+tracker.isbigdick.cc.cd
 tracker.ixuexi.click
 tracker.jdx3.org
 tracker.kali.org
@@ -4081,6 +4091,7 @@ ww7.fr
 wwf.to
 wwp.news
 www.1gl.ru
+www.24brost.kz
 www.24smi.org
 www.2600.com
 www.2gis.kz
@@ -4138,6 +4149,7 @@ www.ccbill.com
 www.ccleaner.com
 www.cdn-cookieyes.com
 www.ceramogranit.kz
+www.chernaya100.com
 www.chromestatus.com
 www.claude.com
 www.clickcease.com
@@ -4161,6 +4173,7 @@ www.dnscheck.tools
 www.docs.datadoghq.com
 www.download.electrum.org
 www.download.nullsoft.com
+www.dpksklad.kz
 www.dtf.ru
 www.duckduckgo.com
 www.dzen.ru
@@ -4219,6 +4232,7 @@ www.ipstack.com
 www.itzgeek.com
 www.ivi.ru
 www.ivi.tv
+www.izap24.kz
 www.jalebi.io
 www.kaspersky-labs.com
 www.kaspi.kz
