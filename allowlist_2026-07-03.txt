@@ -30,6 +30,7 @@
 2.ht
 2.ly
 2.tracker.eu.org
+24brost.kz
 24smi.org
 2doc.net
 2fear.com
@@ -156,6 +157,7 @@ adblock.doh.mullvad.net
 adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
+adblock.mydns.network
 adblock.ny1.dns.nixnet.xyz
 adbtc.top
 addns1.m-it.ro
@@ -681,6 +683,7 @@ chat.signal.org
 chat.z.ai
 chatgpt.com
 chatra.io
+chernaya100.com
 chihaya.de
 chihaya.toss.li
 child-noads.joindns4.eu
@@ -1138,7 +1141,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
@@ -1249,7 +1251,6 @@ doh.gcp.pathofgrace.com
 doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kel.pe
 doh.killtw.im
 doh.la.ahadns.net
 doh.lacontrevoie.fr
@@ -1305,6 +1306,7 @@ dot.occ.top
 doth.huque.com
 download.electrum.org
 download.internetdownloadmanager.com
+download.liteapks.dev
 download.maxmind.com
 download.megaup.net
 download.nullsoft.com
@@ -1313,6 +1315,7 @@ download.visualstudio.microsoft.com
 download.windowsupdate.com
 download1346.mediafire.com
 dpiui.reedlan.com
+dpksklad.kz
 dpmd.ai
 dpo.st
 drivefrontend-pa.clients6.google.com
@@ -1449,6 +1452,7 @@ family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.freedns.controld.com
+family.mydns.network
 fandan.co
 fandom.link
 fandw.me
@@ -1527,6 +1531,7 @@ free.bravedns.com
 free.shecan.ir
 freebitco.in
 freedns.controld.com
+freedom.mydns.network
 frog.dns.qwer.pw
 frontend.mercadolibre.com
 fstrk.cc
@@ -1929,6 +1934,7 @@ ivi.ru
 ivi.tv
 ivnkn.xyz
 ix.sk
+izap24.kz
 j.gs
 j.mp
 ja.cat
@@ -2186,6 +2192,7 @@ m.vk.com
 m.youtube.com
 m101.org
 m1p.fr
+m365.cloud.microsoft
 ma.wattpad.com
 maac.io
 mackeeper.com
@@ -2274,6 +2281,7 @@ mgtracker.org
 mia01.dnscry.pt
 michmed.org
 microservices.io
+microsoft365.com
 microsoftonline.com
 micuenta.invertironline.com
 migre.me
@@ -2634,6 +2642,7 @@ pages.awscloud.com
 pages.hitachivantara.com
 paloaltonetworks.com
 par01.dnscry.pt
+paranoia.mydns.network
 parcel-api.delivery.hm.com
 pardot.com
 passport.dzen.ru
@@ -3382,6 +3391,7 @@ thein.fo
 themoviedb.com
 theoccult.bz
 theoremreach.com
+thepiratebay.org
 theplace.bz
 thesne.ws
 thetim.es
@@ -3603,6 +3613,7 @@ tracker.iperson.xyz
 tracker.iplocation.net
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
+tracker.isbigdick.cc.cd
 tracker.ixuexi.click
 tracker.jdx3.org
 tracker.kali.org
@@ -3774,7 +3785,6 @@ trun.tom.ru
 trymongodb.com
 tsbk.tw
 tse1.mm.bing.net
-tsm01.dnscry.pt
 tsta.rs
 tsundere.pw
 tt.vg
@@ -4082,6 +4092,7 @@ ww7.fr
 wwf.to
 wwp.news
 www.1gl.ru
+www.24brost.kz
 www.24smi.org
 www.2600.com
 www.2gis.kz
@@ -4139,6 +4150,7 @@ www.ccbill.com
 www.ccleaner.com
 www.cdn-cookieyes.com
 www.ceramogranit.kz
+www.chernaya100.com
 www.chromestatus.com
 www.claude.com
 www.clickcease.com
@@ -4162,6 +4174,7 @@ www.dnscheck.tools
 www.docs.datadoghq.com
 www.download.electrum.org
 www.download.nullsoft.com
+www.dpksklad.kz
 www.dtf.ru
 www.duckduckgo.com
 www.dzen.ru
@@ -4220,6 +4233,7 @@ www.ipstack.com
 www.itzgeek.com
 www.ivi.ru
 www.ivi.tv
+www.izap24.kz
 www.jalebi.io
 www.kaspersky-labs.com
 www.kaspi.kz
@@ -4251,6 +4265,7 @@ www.mercadopago.com.ar
 www.merchant-center-analytics.goog
 www.microservices.io
 www.microsoft.com
+www.microsoft365.com
 www.midea123.z-media.com.cn
 www.moon.market
 www.mozilla.org
@@ -4357,6 +4372,8 @@ www.teletype.in
 www.testter.kz
 www.timeweb.ru
 www.torrent.eu.org
+www.torrentdownload.inf
+www.torrentdownloads.pro
 www.torrentsnipe.info
 www.trendmicro.com
 www.tria.ge
@@ -4458,6 +4475,9 @@ yuki.bt.bontal.net
 yul01.dnscry.pt
 yun.ir
 yuptracker-eu.gaijinent.com
+yuptracker-sa.gaijinent.com
+yuptracker-us.gaijinent.com
+yuptracker.gaijinent.com
 yurta.me
 yuwabits.net
 yvr01.dnscry.pt
