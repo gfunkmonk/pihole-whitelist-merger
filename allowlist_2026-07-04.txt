@@ -1141,7 +1141,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
@@ -1252,7 +1251,6 @@ doh.gcp.pathofgrace.com
 doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kel.pe
 doh.killtw.im
 doh.la.ahadns.net
 doh.lacontrevoie.fr
@@ -1308,6 +1306,7 @@ dot.occ.top
 doth.huque.com
 download.electrum.org
 download.internetdownloadmanager.com
+download.liteapks.dev
 download.maxmind.com
 download.megaup.net
 download.nullsoft.com
@@ -2193,6 +2192,7 @@ m.vk.com
 m.youtube.com
 m101.org
 m1p.fr
+m365.cloud.microsoft
 ma.wattpad.com
 maac.io
 mackeeper.com
@@ -2281,6 +2281,7 @@ mgtracker.org
 mia01.dnscry.pt
 michmed.org
 microservices.io
+microsoft365.com
 microsoftonline.com
 micuenta.invertironline.com
 migre.me
@@ -3390,6 +3391,7 @@ thein.fo
 themoviedb.com
 theoccult.bz
 theoremreach.com
+thepiratebay.org
 theplace.bz
 thesne.ws
 thetim.es
@@ -3783,7 +3785,6 @@ trun.tom.ru
 trymongodb.com
 tsbk.tw
 tse1.mm.bing.net
-tsm01.dnscry.pt
 tsta.rs
 tsundere.pw
 tt.vg
@@ -4264,6 +4265,7 @@ www.mercadopago.com.ar
 www.merchant-center-analytics.goog
 www.microservices.io
 www.microsoft.com
+www.microsoft365.com
 www.midea123.z-media.com.cn
 www.moon.market
 www.mozilla.org
@@ -4370,6 +4372,8 @@ www.teletype.in
 www.testter.kz
 www.timeweb.ru
 www.torrent.eu.org
+www.torrentdownload.inf
+www.torrentdownloads.pro
 www.torrentsnipe.info
 www.trendmicro.com
 www.tria.ge
@@ -4471,6 +4475,9 @@ yuki.bt.bontal.net
 yul01.dnscry.pt
 yun.ir
 yuptracker-eu.gaijinent.com
+yuptracker-sa.gaijinent.com
+yuptracker-us.gaijinent.com
+yuptracker.gaijinent.com
 yurta.me
 yuwabits.net
 yvr01.dnscry.pt
