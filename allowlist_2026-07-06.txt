@@ -84,6 +84,7 @@
 9.rarbg.me
 9.rarbg.to
 92url.com
+941store.ru
 985.so
 98pro.cc
 9mp.com
@@ -178,6 +179,7 @@ adm.category5.tv
 adm.to
 admdownload.adobe.com
 admin.52ywp.com
+admin.941test.ru
 admin.microsoft.com
 admin.onedrive.com
 admin.videoenpoche.info
@@ -2677,6 +2679,7 @@ pgrs.in
 philips.to
 phl01.dnscry.pt
 phonearena.com
+php-bobcat.wasmer.app
 phx01.dnscry.pt
 pi1.node15.com
 piee.pw
@@ -2696,6 +2699,7 @@ placeholdit.imgix.net
 platform.linkedin.com
 play-fe.googleapis.com
 play-lh.googleusercontent.com
+play.aimisayo.com
 play.google.com
 play.googleapis.com
 play.spotify.edgekey.net
@@ -3641,6 +3645,7 @@ tracker.nanoha.org
 tracker.nekomi.cn
 tracker.netmap.top
 tracker.nextrp.ru
+tracker.nexusstream.eu
 tracker.nitrix.me
 tracker.noobsubs.net
 tracker.novy.vip
@@ -4099,6 +4104,7 @@ www.2gis.kz
 www.2ip.io
 www.2ip.ru
 www.3dvf.com
+www.941store.ru
 www.ably.io
 www.accuweather.com
 www.acompli.com
