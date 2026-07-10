@@ -1,11 +1,9 @@
 0.gp
 004430.xyz
-0123456789nonexistent.com
 0205.uptm.ch
 021912.xyz
 02faq.com
 0a.sk
-0d.kebhana.mx
 1.dns.noridev.moe
 1.tracker.eu.org
 101.gg
@@ -555,11 +553,9 @@ bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
 bt.okmp3.ru
-bt.poletracker.org
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
-bt1.xxxxbt.cc
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
@@ -572,7 +568,6 @@ bubu.mapfactor.com
 budurl.com
 buff.ly
 bung.ie
-buny.uk
 businesswire.com
 bwnews.pr
 by2.io
@@ -996,6 +991,7 @@ dns.asterimoon.com
 dns.b612.me
 dns.bebasid.com
 dns.belnet.be
+dns.bezmezhau.com
 dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
@@ -1122,7 +1118,6 @@ dns.stormycloud.org
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
-dns.szpadel.ovh
 dns.t53.de
 dns.telekom.de
 dns.therifleman.name
@@ -1299,6 +1294,7 @@ dpo.st
 drivefrontend-pa.clients6.google.com
 dropmefiles.com
 drumkitx.com
+ds32244.seedhost.eu
 dssurl.com
 dtdg.co
 dtf.ru
@@ -1736,7 +1732,6 @@ hm.ru
 hmt.ai
 hnsl.mn
 home.office.com
-home.yxgz.club
 homes.jp
 honzik.avcdn.net
 hoster.kz
@@ -1927,7 +1922,6 @@ js.hsforms.net
 jsb.by
 json.bild.de
 juuri.hagezi.org
-jvavav.com
 jz.rs
 k-p.li
 kaitain.restena.lu
@@ -2529,7 +2523,6 @@ open.stealth.si
 open.touki.ru
 open.tracker.cl
 open.tracker.ink
-open.trackerlist.xyz
 openbittorrent.com
 openbld.net
 opencdn.jomodns.com
@@ -2627,7 +2620,6 @@ pgrs.in
 philips.to
 phl01.dnscry.pt
 phonearena.com
-php-bobcat.wasmer.app
 phx01.dnscry.pt
 pi1.node15.com
 piee.pw
@@ -2647,7 +2639,6 @@ placeholdit.imgix.net
 platform.linkedin.com
 play-fe.googleapis.com
 play-lh.googleusercontent.com
-play.aimisayo.com
 play.google.com
 play.googleapis.com
 play.spotify.edgekey.net
@@ -3001,7 +2992,6 @@ secure.pow7.com
 secureworld.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
-seeders-paradise.org
 seedsta.rs
 segment.com
 segment.io
@@ -3031,7 +3021,6 @@ shadowshq.yi.org
 shahidrazi.online
 shar.as
 share.camoe.cn
-share.hkg-fansub.info
 sharepointonline.com
 shepherd.avcdn.net
 shiny.link
@@ -3058,7 +3047,6 @@ shp.ee
 shrinkearn.com
 shrtm.nu
 sht.moe
-shubt.net
 shutr.bz
 siambt.com
 sie.ag
@@ -3400,7 +3388,6 @@ topt.al
 torrent-team.net
 torrent.arjlover.net
 torrent.eu.org
-torrent.hificode.in
 torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
@@ -3421,6 +3408,7 @@ tpe01.dnscry.pt
 tpmr.com
 tprk.us
 tr.abiir.top
+tr.abir.ga
 tr.bangumi.moe
 tr.btube3.com
 tr.cili001.com
@@ -3434,7 +3422,6 @@ tr2.ysagin.top
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
-tracker.004430.xyz
 tracker.0o.is
 tracker.0x.tf
 tracker.36dm.com
@@ -3471,7 +3458,6 @@ tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
-tracker.dmcomic.org
 tracker.ds.is
 tracker.ducks.party
 tracker.dutchtracking.nl
@@ -3497,14 +3483,12 @@ tracker.gmi.gd
 tracker.grepler.com
 tracker.halfchub.club
 tracker.hama3.net
-tracker.hismz.cn
 tracker.iamhansen.xyz
 tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.iplocation.net
-tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.isbigdick.cc.cd
 tracker.kali.org
@@ -3513,13 +3497,11 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
-tracker.lintk.me
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
-tracker.moxing.party
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
@@ -3578,17 +3560,14 @@ tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
-tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
-tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wildkat.net
-tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.ygsub.com
 tracker.yoshi210.com
@@ -3609,7 +3588,6 @@ tracker3.itzmx.com
 tracker4.itzmx.com
 tracker6.dler.org
 tracker6.lelux.fi
-tracker810.xyz
 tracking-api.andreani.com
 tracking-protection.cdn.mozilla.net
 tracking.asendia.com
@@ -4205,7 +4183,6 @@ www.timeweb.ru
 www.torrent.eu.org
 www.torrentdownload.inf
 www.torrentdownloads.pro
-www.torrentsnipe.info
 www.trendmicro.com
 www.tria.ge
 www.twitter.com
