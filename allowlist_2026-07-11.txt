@@ -117,6 +117,7 @@ ablinks.mail.wirexapp.com
 ably.io
 abn01.dnscry.pt
 abnb.me
+aboutbeautifulgallopinghorsesinthegreenpasture.online
 abr.ai
 abre.ai
 academic-p2p.appspot.com
@@ -354,7 +355,6 @@ articulo.mercadolibre.com.ar
 aruacfilmes.com.br
 asger.xyz
 asia.dnscepat.id
-asiatorrent.giize.com
 asics.tv
 asin.cc
 asq.kr
@@ -555,6 +555,7 @@ bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
 bt.okmp3.ru
+bt.poletracker.org
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
@@ -763,27 +764,6 @@ coe01.dnscry.pt
 coeus.torrentonline.cc
 cognito-identity.us-east-1.amazonaws.com
 cointiply.com
-cold-eu-agl-1.gofile.io
-cold-eu-par-1.gofile.io
-cold-na-phx-1.gofile.io
-cold-na-phx-10.gofile.io
-cold-na-phx-2.gofile.io
-cold-na-phx-3.gofile.io
-cold-na-phx-4.gofile.io
-cold-na-phx-5.gofile.io
-cold-na-phx-6.gofile.io
-cold-na-phx-7.gofile.io
-cold-na-phx-8.gofile.io
-cold-na-phx-9.gofile.io
-cold1.gofile.io
-cold2.gofile.io
-cold3.gofile.io
-cold4.gofile.io
-cold5.gofile.io
-cold6.gofile.io
-cold7.gofile.io
-cold8.gofile.io
-cold9.gofile.io
 collector.github.com
 comca.st
 come.ac
@@ -994,6 +974,7 @@ dns.asterimoon.com
 dns.b612.me
 dns.bebasid.com
 dns.belnet.be
+dns.bezmezhau.com
 dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
@@ -1120,7 +1101,6 @@ dns.stormycloud.org
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
-dns.szpadel.ovh
 dns.t53.de
 dns.telekom.de
 dns.therifleman.name
@@ -1297,6 +1277,7 @@ dpo.st
 drivefrontend-pa.clients6.google.com
 dropmefiles.com
 drumkitx.com
+ds32244.seedhost.eu
 dssurl.com
 dtdg.co
 dtf.ru
@@ -2527,7 +2508,6 @@ open.stealth.si
 open.touki.ru
 open.tracker.cl
 open.tracker.ink
-open.trackerlist.xyz
 openbittorrent.com
 openbld.net
 opencdn.jomodns.com
@@ -2608,11 +2588,9 @@ pdxint.at
 pe.ga
 peerfect.org
 pens.pe
-people-pa.clients6.google.com
 people-pa.googleapis.com
 people.googleapis.com
 peoplem.ag
-peoplestack-pa.clients6.google.com
 pepsi.co
 per.adfilter.net
 pesc.pw
@@ -2816,6 +2794,7 @@ refini.tv
 reg.ru
 regiopolis.cloud
 regmovi.es
+rekcart.duckdns.org
 reline.cc
 relink.asia
 rem.ax
@@ -3023,6 +3002,7 @@ sg01.dns4me.net
 sgq.io
 shadowshq.eddie4.nl
 shadowshq.yi.org
+shahidrazi.online
 shar.as
 share.camoe.cn
 share.hkg-fansub.info
@@ -3224,6 +3204,7 @@ sumologic.com
 sunnygyl.com
 suo.fyi
 suo.im
+supertracker.cc.cd
 support-uber.com
 support.newrelic.com.
 supr.cl
@@ -3399,6 +3380,7 @@ torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
 torrent.tdjs.tech
+torrent.tracker.durukanbal.com
 torrentclub.online
 torrentclub.tech
 torrents-nn.cn
@@ -3419,6 +3401,7 @@ tr.bangumi.moe
 tr.btube3.com
 tr.cili001.com
 tr.ee
+tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
@@ -3463,8 +3446,8 @@ tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
-tracker.dmcomic.org
 tracker.ds.is
+tracker.ducks.party
 tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
@@ -3478,6 +3461,7 @@ tracker.files.fm
 tracker.flashtorrents.org
 tracker.flatuslifir.is
 tracker.fnix.net
+tracker.foreverpirates.co
 tracker.fortu.io
 tracker.frozen-layer.net
 tracker.funfile.org
@@ -3502,7 +3486,6 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
-tracker.lintk.me
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
 tracker.minglong.org
@@ -3567,17 +3550,14 @@ tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
-tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
-tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wildkat.net
-tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.ygsub.com
 tracker.yoshi210.com
