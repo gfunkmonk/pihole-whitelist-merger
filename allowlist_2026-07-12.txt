@@ -1,9 +1,11 @@
 0.gp
 004430.xyz
+0123456789nonexistent.com
 0205.uptm.ch
 021912.xyz
 02faq.com
 0a.sk
+0d.kebhana.mx
 1.dns.noridev.moe
 1.tracker.eu.org
 101.gg
@@ -115,6 +117,7 @@ ablinks.mail.wirexapp.com
 ably.io
 abn01.dnscry.pt
 abnb.me
+aboutbeautifulgallopinghorsesinthegreenpasture.online
 abr.ai
 abre.ai
 academic-p2p.appspot.com
@@ -272,6 +275,7 @@ api.atlassian.com
 api.aws.parking.godaddy.com
 api.binance.com
 api.bitumconference.ru
+api.bnnapp.com
 api.db-ip.com
 api.directory.signal.org
 api.facebook.com
@@ -521,11 +525,13 @@ bom01.dnscry.pt
 bonap.it
 booki.ng
 bookstw.link
+bootstrapcdn.com
 bose.life
 boston25.com
 bp.cool
 br4.in
 branch.io
+brave.com
 bravedns.com
 bravo.ly
 braze.com
@@ -552,9 +558,11 @@ bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
 bt.okmp3.ru
+bt.poletracker.org
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
+bt1.xxxxbt.cc
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
@@ -567,6 +575,7 @@ bubu.mapfactor.com
 budurl.com
 buff.ly
 bung.ie
+buny.uk
 businesswire.com
 bwnews.pr
 by2.io
@@ -726,6 +735,7 @@ clients9.google.com
 clientservices.googleapis.com
 cloud.198.games
 cloud.digitalocean.com
+cloud.mail.ru
 cloud.microsoft
 cloudflare-dns.com
 cloudflare.com
@@ -759,27 +769,6 @@ coe01.dnscry.pt
 coeus.torrentonline.cc
 cognito-identity.us-east-1.amazonaws.com
 cointiply.com
-cold-eu-agl-1.gofile.io
-cold-eu-par-1.gofile.io
-cold-na-phx-1.gofile.io
-cold-na-phx-10.gofile.io
-cold-na-phx-2.gofile.io
-cold-na-phx-3.gofile.io
-cold-na-phx-4.gofile.io
-cold-na-phx-5.gofile.io
-cold-na-phx-6.gofile.io
-cold-na-phx-7.gofile.io
-cold-na-phx-8.gofile.io
-cold-na-phx-9.gofile.io
-cold1.gofile.io
-cold2.gofile.io
-cold3.gofile.io
-cold4.gofile.io
-cold5.gofile.io
-cold6.gofile.io
-cold7.gofile.io
-cold8.gofile.io
-cold9.gofile.io
 collector.github.com
 comca.st
 come.ac
@@ -1117,7 +1106,6 @@ dns.stormycloud.org
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
-dns.szpadel.ovh
 dns.t53.de
 dns.telekom.de
 dns.therifleman.name
@@ -1294,6 +1282,7 @@ dpo.st
 drivefrontend-pa.clients6.google.com
 dropmefiles.com
 drumkitx.com
+ds32244.seedhost.eu
 dssurl.com
 dtdg.co
 dtf.ru
@@ -1731,6 +1720,7 @@ hm.ru
 hmt.ai
 hnsl.mn
 home.office.com
+home.yxgz.club
 homes.jp
 honzik.avcdn.net
 hoster.kz
@@ -1921,6 +1911,7 @@ js.hsforms.net
 jsb.by
 json.bild.de
 juuri.hagezi.org
+jvavav.com
 jz.rs
 k-p.li
 kaitain.restena.lu
@@ -1965,6 +1956,7 @@ kids.5ososea.com
 kids.dns0.eu
 kids.ns.nwps.fi
 kings.tn
+kinogo.ec
 kinogo.org
 kinorun.com
 kiv01.dnscry.pt
@@ -2027,6 +2019,7 @@ lencr.org
 lenta.ru
 letsencrypt.org
 letsharu.cc
+lextran.com
 lft.to
 lh3.googleusercontent.com
 licensing.xboxlive.com
@@ -2190,6 +2183,7 @@ masters-of-cloud.de
 masters-tb.com
 matt.mercadolibre.com.ar
 max.rethinkdns.com
+maxcdn.bootstrapcdn.com
 maxmind.com
 maxsrv.xyz
 mayocl.in
@@ -2310,6 +2304,7 @@ my.mtr.cool
 myaccount.mercadolibre.com.ar
 mybmw.tw
 mybuh.kz
+mycdn.me
 mycrypto.com
 myglamm.in
 mylt.tv
@@ -2400,6 +2395,7 @@ ns3.bit-trail.nl
 ns3.com
 ns3.cx
 ns3.link
+ns3109441.mypdns.org
 ns349743.ip-91-121-106.eu
 ns389251.ovh.net
 ns575949.ip-51-222-82.net
@@ -2472,6 +2468,7 @@ officespeech.platform.bing.com
 offs.ec
 ogp.me
 oii.la
+okcdn.ru
 okt.to
 omg.wtftrackr.xyz
 omni.ag
@@ -2583,6 +2580,7 @@ packt.link
 pag.la
 pages.awscloud.com
 pages.hitachivantara.com
+paklap.pk
 paloaltonetworks.com
 par01.dnscry.pt
 paranoia.mydns.network
@@ -2602,11 +2600,9 @@ pdxint.at
 pe.ga
 peerfect.org
 pens.pe
-people-pa.clients6.google.com
 people-pa.googleapis.com
 people.googleapis.com
 peoplem.ag
-peoplestack-pa.clients6.google.com
 pepsi.co
 per.adfilter.net
 pesc.pw
@@ -2791,6 +2787,7 @@ realtime.ably.io
 rebelne.ws
 rebrand.ly
 reconis.co
+recostream.go.mail.ru
 red.ht
 redaz.in
 redcanary.com
@@ -2806,10 +2803,12 @@ redirector.gvt1.com
 redsto.ne
 redthread.studio
 ref.trade.re
+referrals.brave.com
 refini.tv
 reg.ru
 regiopolis.cloud
 regmovi.es
+rekcart.duckdns.org
 reline.cc
 relink.asia
 rem.ax
@@ -2990,6 +2989,8 @@ secure.pow7.com
 secureworld.io
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
+seeders-paradise.org
+seedpeer.net
 seedsta.rs
 segment.com
 segment.io
@@ -3016,8 +3017,10 @@ sg01.dns4me.net
 sgq.io
 shadowshq.eddie4.nl
 shadowshq.yi.org
+shahidrazi.online
 shar.as
 share.camoe.cn
+share.hkg-fansub.info
 sharepointonline.com
 shepherd.avcdn.net
 shiny.link
@@ -3044,6 +3047,7 @@ shp.ee
 shrinkearn.com
 shrtm.nu
 sht.moe
+shubt.net
 shutr.bz
 siambt.com
 sie.ag
@@ -3215,6 +3219,7 @@ sumologic.com
 sunnygyl.com
 suo.fyi
 suo.im
+supertracker.cc.cd
 support-uber.com
 support.newrelic.com.
 supr.cl
@@ -3385,6 +3390,7 @@ topt.al
 torrent-team.net
 torrent.arjlover.net
 torrent.eu.org
+torrent.hificode.in
 torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
@@ -3410,6 +3416,7 @@ tr.bangumi.moe
 tr.btube3.com
 tr.cili001.com
 tr.ee
+tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.ready4.icu
@@ -3454,7 +3461,9 @@ tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
+tracker.dmcomic.org
 tracker.ds.is
+tracker.ducks.party
 tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
@@ -3468,6 +3477,7 @@ tracker.files.fm
 tracker.flashtorrents.org
 tracker.flatuslifir.is
 tracker.fnix.net
+tracker.foreverpirates.co
 tracker.fortu.io
 tracker.frozen-layer.net
 tracker.funfile.org
@@ -3492,11 +3502,13 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
+tracker.lintk.me
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
+tracker.moxing.party
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
@@ -3563,6 +3575,7 @@ tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wildkat.net
+tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.ygsub.com
 tracker.yoshi210.com
@@ -3583,6 +3596,7 @@ tracker3.itzmx.com
 tracker4.itzmx.com
 tracker6.dler.org
 tracker6.lelux.fi
+tracker810.xyz
 tracking-api.andreani.com
 tracking-protection.cdn.mozilla.net
 tracking.asendia.com
@@ -3780,6 +3794,7 @@ vivo.tl
 vk.cc
 vk.com
 vk.sv
+vkontakte.ru
 vmray.com
 vn.rog.gg
 vno01.dnscry.pt
@@ -3948,6 +3963,7 @@ www.blogger.com
 www.blogspot.com
 www.bna.com.ar
 www.branch.io
+www.brave.com
 www.braze.com
 www.bubble.io
 www.businesswire.com
@@ -3998,6 +4014,7 @@ www.findmykids.org
 www.firstvds.ru
 www.forte.bank
 www.ft.com
+www.genesis-sp.org
 www.gizmodo.com
 www.gnome.org
 www.godaddy.com
@@ -4045,10 +4062,12 @@ www.kaspi.kz
 www.kazhackstan.com
 www.kazlenta.kz
 www.kcell.kz
+www.kinogo.ec
 www.kinogo.org
 www.komputerswiat.pl
 www.kuma.io
 www.lenta.ru
+www.lextran.com
 www.linkedin.com
 www.linksynergy.com
 www.list.ru
@@ -4106,11 +4125,13 @@ www.optimizely.com
 www.oshi.at
 www.oszone.net
 www.outlook.com
+www.paklap.pk
 www.paypal.com
 www.pdm.kz
 www.phonearena.com
 www.pinterest.com
 www.pirogi.kz
+www.pixeldrain.com
 www.place-hold.it
 www.placehold.co
 www.playrix.com
@@ -4178,6 +4199,7 @@ www.timeweb.ru
 www.torrent.eu.org
 www.torrentdownload.inf
 www.torrentdownloads.pro
+www.torrentsnipe.info
 www.trendmicro.com
 www.tria.ge
 www.twitter.com
