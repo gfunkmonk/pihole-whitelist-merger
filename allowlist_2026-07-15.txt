@@ -115,7 +115,6 @@ abelinc.me
 ablink.account.quizlet.com
 ablinks.mail.wirexapp.com
 ably.io
-abn01.dnscry.pt
 abnb.me
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 abr.ai
@@ -513,12 +512,10 @@ blur.by
 bmai.cc
 bms-hosxp.com
 bnds.in
-bne01.dnscry.pt
 bnetwhk.com
 bo.st
 boa.la
 bobbialbano.com
-bog01.dnscry.pt
 boile.rs
 bom.so
 bom01.dnscry.pt
@@ -545,7 +542,6 @@ browser-intake-datadoghq.com
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 browser.to
-bru01.dnscry.pt
 bst.bz
 bstk.me
 bt-club.ws
@@ -568,7 +564,6 @@ bt2.archive.org
 bt2.edwardk.info
 btcclicks.com
 btm.li
-bts01.dnscry.pt
 btwrdn.com
 bubble.io
 bubu.mapfactor.com
@@ -751,6 +746,7 @@ cmp2.bild.de
 cms.souqcdn.com
 cmu.is
 cmy.tw
+cn.pcfreetime.com
 cna.asia
 cnb.cx
 cnet.co
@@ -803,7 +799,6 @@ counter.yadro.ru
 coupa.ng
 cp.unisender.com
 cp.vdsina.ru
-cph01.dnscry.pt
 cplink.co
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -886,7 +881,6 @@ dc.services.vsallin.net
 dcps.co
 dd.ma
 ddg.gg
-de-f1.foxyfy.net
 de.ioam.de
 de01.dns4me.net
 deb.li
@@ -1483,7 +1477,6 @@ fpt.live.com
 fr-dns1.bancuh.com
 fr.rog.gg
 fra01.dnscry.pt
-fra02.dnscry.pt
 frd4wvnobp.cloudflare-gateway.com
 frdm.mobi
 free-tracker.zooki.xyz
@@ -1676,13 +1669,10 @@ gtly.ink
 gtly.to
 gtne.ws
 gtnr.it
-gva01.dnscry.pt
 gym.sh
 h4.trakx.nibba.trade
 haa.su
-haf01.dnscry.pt
 han.gl
-han01.dnscry.pt
 harness.io
 hashes.com
 hashi.co
@@ -2237,7 +2227,6 @@ microsoft365.com
 microsoftonline.com
 micuenta.invertironline.com
 migre.me
-mil01.dnscry.pt
 milliontorrent.pl
 minify.link
 minilink.io
@@ -2406,7 +2395,6 @@ ntck.co
 ntn.so
 ntservicepack.microsoft.com
 ntuc.co
-nue01.dnscry.pt
 nuget.org
 nukadeti.ru
 nullsoft.com
@@ -2472,7 +2460,6 @@ okcdn.ru
 okt.to
 omg.wtftrackr.xyz
 omni.ag
-omr01.dnscry.pt
 on.bcg.com
 on.bp.com
 on.com
@@ -2519,6 +2506,7 @@ open.stealth.si
 open.touki.ru
 open.tracker.cl
 open.tracker.ink
+open.trackerlist.xyz
 openbittorrent.com
 openbld.net
 opencdn.jomodns.com
@@ -2582,7 +2570,6 @@ pages.awscloud.com
 pages.hitachivantara.com
 paklap.pk
 paloaltonetworks.com
-par01.dnscry.pt
 paranoia.mydns.network
 parcel-api.delivery.hm.com
 pardot.com
@@ -2615,6 +2602,7 @@ pgrs.in
 philips.to
 phl01.dnscry.pt
 phonearena.com
+php-bobcat.wasmer.app
 phx01.dnscry.pt
 pi1.node15.com
 piee.pw
@@ -2778,7 +2766,6 @@ rd.gt
 rdbl.co
 rdcrss.org
 rdcu.be
-rdd01.dnscry.pt
 rdns.faelix.net
 rdu01.dnscry.pt
 read.bi
@@ -2973,7 +2960,6 @@ sdpbne.ws
 sdu.sk
 sdut.us
 se.rog.gg
-sea01.dnscry.pt
 seagate.com
 seagate.media
 sealed.in
@@ -3057,7 +3043,6 @@ silo.pluto.tv
 siloh.pluto.tv
 simp.ly
 sin01.dnscry.pt
-sin03.dnscry.pt
 sina.lt
 sincere.ly
 sink.nolo.ltd
@@ -3069,7 +3054,6 @@ sirv.freebitco.in
 sister.agenziaentrate.gov.it
 siteco.re
 sixt.lv
-sjc01.dnscry.pt
 sk.in.rs
 skimmth.is
 skl.apple.com
@@ -3237,7 +3221,6 @@ sy.to
 syb.la
 syd.adfilter.net
 syd01.dnscry.pt
-syd02.dnscry.pt
 synd.co
 sys-adm.in
 sysconf-dev-nuxt-site.pages.dev
@@ -3278,7 +3261,6 @@ tamos-education.kz
 tanks.ly
 tbb.tw
 tbrd.co
-tbs01.dnscry.pt
 tc-boxing.com
 tcrn.ch
 tdrive.li
@@ -3430,6 +3412,7 @@ tracker.0x.tf
 tracker.36dm.com
 tracker.7471.top
 tracker.acgnx.se
+tracker.adgk.net
 tracker.aletorrenty.pl
 tracker.ali213.net
 tracker.altrosky.nl
@@ -3494,6 +3477,7 @@ tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.iplocation.net
+tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.isbigdick.cc.cd
 tracker.kali.org
@@ -3553,6 +3537,7 @@ tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.teambelgium.net
 tracker.theempire.bz
+tracker.theoks.net
 tracker.therarbg.to
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
@@ -3571,6 +3556,7 @@ tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
+tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
@@ -3797,7 +3783,6 @@ vk.sv
 vkontakte.ru
 vmray.com
 vn.rog.gg
-vno01.dnscry.pt
 vntyfr.com
 vo.la
 vodafone.uk
@@ -3847,7 +3832,6 @@ wartsi.ly
 wassermann.online
 watchit.ru
 waw01.dnscry.pt
-waw02.dnscry.pt
 way.to
 wb.md
 wbby.co
@@ -4281,7 +4265,6 @@ yelp.to
 yesware.com
 yex.tt
 yhoo.it
-yhz01.dnscry.pt
 yip.su
 yji.tw
 ynews.page.link
@@ -4300,9 +4283,6 @@ yul01.dnscry.pt
 yun.ir
 yurta.me
 yuwabits.net
-yvr01.dnscry.pt
-yyc01.dnscry.pt
-yyz01.dnscry.pt
 z-m-graph.facebook.com
 z.ai
 z.mercax.com
