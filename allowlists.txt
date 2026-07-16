@@ -21,7 +21,13 @@ https://github.com/croxtyl/pihole-blocklist/raw/refs/heads/main/whitelist/tools.
 https://raw.githubusercontent.com/croxtyl/pihole-blocklist/refs/heads/main/whitelist/windows.txt
 https://github.com/jameshas/Public-DoH-Lists/raw/refs/heads/main/lists/doh_domains_plain.txt
 https://raw.githubusercontent.com/wranders/doh-list/master/doh-list.txt
-https://raw.githubusercontent.com/stereotypicaldev/whitelist/refs/heads/main/Whitelist/Network%20Time%20Protocol%20(NTPs).txt
 https://github.com/my-digital-life/pihole-whitelist/raw/refs/heads/main/torrent.txt
 https://github.com/mi-rpi/pihole-adblock/raw/refs/heads/main/whitelist/03-custom.txt
 https://raw.githubusercontent.com/neodevpro/neodevhost/refs/heads/master/allow
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Network%20Time%20Protocol%20(NTPs)/common.txt
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Social%20Networking%20Platforms/Facebook%20Messenger.txt
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Social%20Networking%20Platforms/Instagram.txt
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Social%20Networking%20Platforms/Reddit.txt
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Social%20Networking%20Platforms/Snapchat.txt
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Social%20Networking%20Platforms/Whatsapp.txt
+https://github.com/stereotypicaldev/whitelist/raw/refs/heads/main/Shorteners/common.txt
