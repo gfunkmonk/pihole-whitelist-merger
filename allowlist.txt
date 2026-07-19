@@ -181,6 +181,7 @@
 1e100.net
 1ea.ir
 1fgqfml.oloadcdn.net
+1fichier.com
 1gl.ru
 1gr.cz
 1hosts.cf
@@ -2884,6 +2885,7 @@ ca.statcounter.com
 ca.wikipedia.com
 ca01.dns4me.net
 ca02.dns4me.net
+ca360.cn
 cacerts.digicert.com
 cache-api.ranker.com
 cachefly.net
@@ -2906,7 +2908,6 @@ callback.line.me
 calopenupdate.comm.miui.com
 cam.ac.uk
 cambridge.org
-camera.api.io.mi.com
 camera.lei001.com
 camera.line.me
 camera.wechat.com
@@ -3104,7 +3105,7 @@ cdn.mbl.is
 cdn.medium.com
 cdn.mplxtms.com
 cdn.mxpnl.com
-cdn.naver.com
+cdn.naver.adblock.ro
 cdn.odc.officeapps.live.com
 cdn.onenote.net
 cdn.onesignal.com
@@ -7737,7 +7738,7 @@ lix.in
 llk.dk
 llk01.dnscry.pt
 llll.im
-llnwd.net1fichier.com
+llnwd.net
 llo.to
 lm.facebook.com
 lm.licenses.adobe.com
@@ -8954,9 +8955,9 @@ nostalgia.wikipedia.com
 notabug.org
 noteapi.micloud.xiaomi.net
 noteworthy.medium.com
+notice.0.client-channel.google.com
 notice.game.xiaomi.com
 notice.line.me
-notice.samsungcloudsolution.com
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -10883,6 +10884,7 @@ ro.twitch.tv
 ro.wikipedia.com
 road.adblock.ro
 roadandtrack.com
+roadmera.api.io.mi.com
 rochester.edu
 rocket.ivi.ru
 rog.gg
