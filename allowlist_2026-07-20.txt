@@ -1679,7 +1679,7 @@ api.coinbase.com
 api.coinmarketcap.com
 api.comm.miui.com
 api.commerce.coinbase.com
-api.cricbu360.cn
+api.cricbuzz.com
 api.crowdin.com
 api.crunchyroll.com
 api.d.xiaomi.com
@@ -3893,7 +3893,6 @@ credicard.biz
 credit-account.staging.viber.com
 credit.jr.mi.com
 creditcards.com
-cricbuzz.com
 crisp.chat
 critic.api.playstation.com
 crl.adobe.com
@@ -7857,6 +7856,7 @@ ltc.cryptopia.co.nz
 lttr.ai
 lu.api.mega.co.nz
 lublin.tvp.pl
+lucke.fenesisu.moe
 ludia.gg
 luffy.chia-anime.tv
 luminary.link
@@ -16395,7 +16395,6 @@ zws.im
 zxc.li
 zynga.my
 zywv.us
-zz.com
 zz.ee
 zzb.bz
 zzu.info
