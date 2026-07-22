@@ -2885,7 +2885,6 @@ ca.statcounter.com
 ca.wikipedia.com
 ca01.dns4me.net
 ca02.dns4me.net
-ca360.cn
 cacerts.digicert.com
 cache-api.ranker.com
 cachefly.net
@@ -2908,6 +2907,7 @@ callback.line.me
 calopenupdate.comm.miui.com
 cam.ac.uk
 cambridge.org
+camera.api.io.mi.com
 camera.lei001.com
 camera.line.me
 camera.wechat.com
@@ -3105,7 +3105,7 @@ cdn.mbl.is
 cdn.medium.com
 cdn.mplxtms.com
 cdn.mxpnl.com
-cdn.naver.adblock.ro
+cdn.naver.com
 cdn.odc.officeapps.live.com
 cdn.onenote.net
 cdn.onesignal.com
@@ -3152,6 +3152,7 @@ cdn.stripst.com
 cdn.stumbleupon.com
 cdn.support.sonymobile.com
 cdn.syndication.twimg.com
+cdn.tailwindcss.com
 cdn.technologyreview.com
 cdn.teleport.media
 cdn.theatlantic.com
@@ -4906,6 +4907,7 @@ edge-weighted.api.brightcove.com
 edge.activity.windows.com
 edge.api.brightcove.com
 edge.pantheon.io
+edgev.duckdns.org
 edgy-dns.com
 edin.ac
 edir.ec
@@ -5870,6 +5872,7 @@ glb.paypal.com
 glblctzn.co
 glblctzn.me
 gldr.co
+gle.cv
 gleam.io
 glmr.co
 glnk.io
@@ -8955,9 +8958,9 @@ nostalgia.wikipedia.com
 notabug.org
 noteapi.micloud.xiaomi.net
 noteworthy.medium.com
-notice.0.client-channel.google.com
 notice.game.xiaomi.com
 notice.line.me
+notice.samsungcloudsolution.com
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -10884,7 +10887,6 @@ ro.twitch.tv
 ro.wikipedia.com
 road.adblock.ro
 roadandtrack.com
-roadmera.api.io.mi.com
 rochester.edu
 rocket.ivi.ru
 rog.gg
@@ -12376,6 +12378,7 @@ tags.adsafety.net
 tags.bkrtx.com
 tags.news.com.au
 tags.tiqcdn.com
+tailwindcss.com
 taiwangov.com
 talk.google.com
 talk.l.google.com
@@ -13355,6 +13358,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.23794.top
 tracker.36dm.com
 tracker.7471.top
 tracker.acgnx.se
@@ -13424,6 +13428,7 @@ tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.iplocation.net
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
@@ -15206,7 +15211,6 @@ www.google.com.uy
 www.google.com.vc
 www.google.com.ve
 www.google.com.vn
-www.google.cv
 www.google.cz
 www.google.de
 www.google.dj
@@ -15950,6 +15954,7 @@ www.synology.com
 www.sysdig.com
 www.taboola.com
 www.tadviser.ru
+www.tailwindcss.com
 www.taiwanlottery.com.tw
 www.tamos-education.kz
 www.taobao.com
