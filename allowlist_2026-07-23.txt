@@ -3152,6 +3152,7 @@ cdn.stripst.com
 cdn.stumbleupon.com
 cdn.support.sonymobile.com
 cdn.syndication.twimg.com
+cdn.tailwindcss.com
 cdn.technologyreview.com
 cdn.teleport.media
 cdn.theatlantic.com
@@ -4906,6 +4907,7 @@ edge-weighted.api.brightcove.com
 edge.activity.windows.com
 edge.api.brightcove.com
 edge.pantheon.io
+edgev.duckdns.org
 edgy-dns.com
 edin.ac
 edir.ec
@@ -12375,6 +12377,7 @@ tags.adsafety.net
 tags.bkrtx.com
 tags.news.com.au
 tags.tiqcdn.com
+tailwindcss.com
 taiwangov.com
 talk.google.com
 talk.l.google.com
@@ -13354,6 +13357,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.23794.top
 tracker.36dm.com
 tracker.7471.top
 tracker.acgnx.se
@@ -13423,6 +13427,7 @@ tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.iperson.xyz
 tracker.iplocation.net
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
@@ -15949,6 +15954,7 @@ www.synology.com
 www.sysdig.com
 www.taboola.com
 www.tadviser.ru
+www.tailwindcss.com
 www.taiwanlottery.com.tw
 www.tamos-education.kz
 www.taobao.com
