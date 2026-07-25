@@ -2095,6 +2095,7 @@ asia.dnscepat.id
 asia.playstation.com
 asia.pool.ntp.org
 asiandrama.chia-anime.tv
+asiatorrent.giize.com
 asics.com
 asics.tv
 asin.cc
@@ -3116,7 +3117,6 @@ cdn.optinmonster.com
 cdn.paddle.com
 cdn.pardot.com
 cdn.pcbeta.attachment.inimc.com
-cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
 cdn.pdst.fm
 cdn.pendo.io
@@ -5872,7 +5872,6 @@ glb.paypal.com
 glblctzn.co
 glblctzn.me
 gldr.co
-gle.cv
 gleam.io
 glmr.co
 glnk.io
@@ -15211,6 +15210,7 @@ www.google.com.uy
 www.google.com.vc
 www.google.com.ve
 www.google.com.vn
+www.google.cv
 www.google.cz
 www.google.de
 www.google.dj
