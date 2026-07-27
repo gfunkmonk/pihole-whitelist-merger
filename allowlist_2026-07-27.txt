@@ -2095,6 +2095,7 @@ asia.dnscepat.id
 asia.playstation.com
 asia.pool.ntp.org
 asiandrama.chia-anime.tv
+asiatorrent.giize.com
 asics.com
 asics.tv
 asin.cc
@@ -4496,6 +4497,7 @@ dns.sev.monster
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
