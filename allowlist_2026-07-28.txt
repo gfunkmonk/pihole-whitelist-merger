@@ -250,10 +250,10 @@
 2.tlp.net
 2.tracker.eu.org
 2.tuxfamily.org
-2.ua.pool.ntp.org
 2.ubnt.pool.ntp.org
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
+2.uw.gaia.com
 21stcenturywire.com
 24brost.kz
 24smi.org
@@ -426,6 +426,7 @@ a.nel.cloudflare.com
 a.ns.dnslify.com
 a.ooyala.com
 a.passcloud.xyz
+a.pool.ntp.org
 a.safe.ns.dnslify.com
 a.shifen.com
 a.slashdotmedia.com
@@ -2589,7 +2590,7 @@ blog.daum.net
 blog.de.playstation.com
 blog.diigo.com
 blog.eu.playstation.com
-blog.experts-exchange.com
+blog.experts-exchange360.cn
 blog.feedspot.com
 blog.flipboard.com
 blog.funimation.com
@@ -3117,6 +3118,7 @@ cdn.optinmonster.com
 cdn.paddle.com
 cdn.pardot.com
 cdn.pcbeta.attachment.inimc.com
+cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
 cdn.pdst.fm
 cdn.pendo.io
@@ -4496,6 +4498,7 @@ dns.sev.monster
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
@@ -5184,6 +5187,7 @@ exodus.desync.com
 exp.notion.so
 expbl2ro.xbox.com
 expertcity.com
+experts-exchange.com
 explodie.org
 explore.next.exchange
 explore.pinterest.com
@@ -15060,7 +15064,6 @@ www.funnyordie.com
 www.fxhome.com
 www.g.cn
 www.g2a.com
-www.gaia.com
 www.gallica.bnf.fr
 www.gamekult.com
 www.gameloft.com
