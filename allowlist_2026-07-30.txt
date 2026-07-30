@@ -3924,7 +3924,6 @@ crwdstr.ke
 cryoutcreations.eu
 cryptolabpro.com
 cryptonator.com
-cryptostorm.is
 cs.co
 cs.daum.net
 cs.gravatar.com
@@ -13328,6 +13327,7 @@ tr.twitch.tv
 tr.wikipedia.com
 tr.zukizuki.org
 tr2.ysagin.top
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 track-eu.customer.io
 track-sdk-eu.customer.io
@@ -13359,6 +13359,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.0x7c0.com
 tracker.23794.top
 tracker.36dm.com
 tracker.7471.top
@@ -13456,6 +13457,7 @@ tracker.nextrp.ru
 tracker.nexusstream.eu
 tracker.nitrix.me
 tracker.noobsubs.net
+tracker.nyaa.net
 tracker.nyaa.uk
 tracker.nyaa.vc
 tracker.nyap2p.com
@@ -14072,6 +14074,7 @@ viberout-calls.staging.viber.com
 viberout-lp.viber.com
 vibes.viber.com
 vice-web-statics-cdn.vice.com
+victoriametrics.com
 vid.pr0gramm.com
 video-api.yql.yahoo.com
 video-downloads.googleusercontent.com
@@ -16060,6 +16063,7 @@ www.vdsina.ru
 www.verisign.com
 www.viabtc.com
 www.vice.com
+www.victoriametrics.com
 www.viglink.com
 www.vimeo.com
 www.vine.co
