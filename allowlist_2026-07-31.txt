@@ -250,10 +250,10 @@
 2.tlp.net
 2.tracker.eu.org
 2.tuxfamily.org
+2.ua.pool.ntp.org
 2.ubnt.pool.ntp.org
 2.ubuntu.pool.ntp.org
 2.us.pool.ntp.org
-2.uw.gaia.com
 21stcenturywire.com
 24brost.kz
 24smi.org
@@ -426,7 +426,6 @@ a.nel.cloudflare.com
 a.ns.dnslify.com
 a.ooyala.com
 a.passcloud.xyz
-a.pool.ntp.org
 a.safe.ns.dnslify.com
 a.shifen.com
 a.slashdotmedia.com
@@ -2590,7 +2589,7 @@ blog.daum.net
 blog.de.playstation.com
 blog.diigo.com
 blog.eu.playstation.com
-blog.experts-exchange360.cn
+blog.experts-exchange.com
 blog.feedspot.com
 blog.flipboard.com
 blog.funimation.com
@@ -3925,7 +3924,6 @@ crwdstr.ke
 cryoutcreations.eu
 cryptolabpro.com
 cryptonator.com
-cryptostorm.is
 cs.co
 cs.daum.net
 cs.gravatar.com
@@ -5187,7 +5185,6 @@ exodus.desync.com
 exp.notion.so
 expbl2ro.xbox.com
 expertcity.com
-experts-exchange.com
 explodie.org
 explore.next.exchange
 explore.pinterest.com
@@ -13330,6 +13327,7 @@ tr.twitch.tv
 tr.wikipedia.com
 tr.zukizuki.org
 tr2.ysagin.top
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 track-eu.customer.io
 track-sdk-eu.customer.io
@@ -13361,6 +13359,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.0x7c0.com
 tracker.23794.top
 tracker.36dm.com
 tracker.7471.top
@@ -13458,6 +13457,7 @@ tracker.nextrp.ru
 tracker.nexusstream.eu
 tracker.nitrix.me
 tracker.noobsubs.net
+tracker.nyaa.net
 tracker.nyaa.uk
 tracker.nyaa.vc
 tracker.nyap2p.com
@@ -14074,6 +14074,7 @@ viberout-calls.staging.viber.com
 viberout-lp.viber.com
 vibes.viber.com
 vice-web-statics-cdn.vice.com
+victoriametrics.com
 vid.pr0gramm.com
 video-api.yql.yahoo.com
 video-downloads.googleusercontent.com
@@ -15064,6 +15065,7 @@ www.funnyordie.com
 www.fxhome.com
 www.g.cn
 www.g2a.com
+www.gaia.com
 www.gallica.bnf.fr
 www.gamekult.com
 www.gameloft.com
@@ -16061,6 +16063,7 @@ www.vdsina.ru
 www.verisign.com
 www.viabtc.com
 www.vice.com
+www.victoriametrics.com
 www.viglink.com
 www.vimeo.com
 www.vine.co
