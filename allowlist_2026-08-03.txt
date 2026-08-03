@@ -8960,7 +8960,6 @@ noteapi.micloud.xiaomi.net
 noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
-notice.samsungcloudsolution.com
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -13387,7 +13386,9 @@ tracker.bt-hash.com
 tracker.bt4g.com
 tracker.btnext.com
 tracker.btsync.gq
+tracker.bug38.com
 tracker.bz
+tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cubonegro.org
