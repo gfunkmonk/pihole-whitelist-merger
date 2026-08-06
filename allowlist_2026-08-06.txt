@@ -330,7 +330,6 @@
 3d-creator.sonymobile.com
 3dns-2.adobe.com
 3dns-3.adobe.com
-3dns.eu
 3dvf.com
 3le.ru
 3p.ampproject.net
@@ -8960,6 +8959,7 @@ noteapi.micloud.xiaomi.net
 noteworthy.medium.com
 notice.game.xiaomi.com
 notice.line.me
+notice.samsungcloudsolution.com
 notice.xbox.com
 notice2.line.me
 noticecdn.samsungcloudsolution.com
@@ -13388,6 +13388,7 @@ tracker.btnext.com
 tracker.btsync.gq
 tracker.bug38.com
 tracker.bz
+tracker.cangku.moe
 tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
@@ -13442,6 +13443,7 @@ tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.leechshield.link
 tracker.lelux.fi
+tracker.lenition.de
 tracker.lintk.me
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
@@ -13511,6 +13513,7 @@ tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
+tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
