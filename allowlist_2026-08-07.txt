@@ -330,7 +330,6 @@
 3d-creator.sonymobile.com
 3dns-2.adobe.com
 3dns-3.adobe.com
-3dns.eu
 3dvf.com
 3le.ru
 3p.ampproject.net
@@ -2547,6 +2546,7 @@ bk.ru
 bk01.hh.xiaomi.com
 bkimg.cdn.bcebos.com
 bl.ink
+bl360.cn
 black.game.naver.com
 blackberry.com
 blackcats-games.net
@@ -2574,7 +2574,6 @@ blocklists.settings.services.mozilla.org
 blog-at.line.me
 blog-cdn.feedspot.com
 blog-cdn2.feedspot.com
-blog-cms.line.me
 blog.appsumo.com
 blog.bit.ly
 blog.bitfinex.com
@@ -7088,6 +7087,7 @@ iprl.com
 ipstack.com
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
+ipv6.govt.hu
 ipv6.he.net
 ipv6.msftconnecttest.com
 ipv6.msftncsi.com
@@ -9693,6 +9693,7 @@ officedepot.com
 officespeech.platform.bing.com
 official-blog.line.me
 offs.ec
+og-cms.line.me
 ogcrawler.blog.naver.com
 oge.la
 ogp.me
@@ -13410,6 +13411,7 @@ tracker.eddie4.nl
 tracker.electro-torrent.pl
 tracker.etree.org
 tracker.ex.ua
+tracker.farted.net
 tracker.filemail.com
 tracker.filepit.to
 tracker.files.fm
@@ -13438,6 +13440,7 @@ tracker.iplocation.net
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.isbigdick.cc.cd
+tracker.k.vu
 tracker.kali.org
 tracker.kamigami.org
 tracker.kuroy.me
@@ -13446,6 +13449,7 @@ tracker.leechshield.link
 tracker.lelux.fi
 tracker.lenition.de
 tracker.lintk.me
+tracker.linvk.com
 tracker.manager.itislove.cz
 tracker.manager.v6.navy
 tracker.marinsm.com
