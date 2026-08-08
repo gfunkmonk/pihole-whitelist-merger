@@ -2546,7 +2546,6 @@ bk.ru
 bk01.hh.xiaomi.com
 bkimg.cdn.bcebos.com
 bl.ink
-bl360.cn
 black.game.naver.com
 blackberry.com
 blackcats-games.net
@@ -2574,6 +2573,7 @@ blocklists.settings.services.mozilla.org
 blog-at.line.me
 blog-cdn.feedspot.com
 blog-cdn2.feedspot.com
+blog-cms.line.me
 blog.appsumo.com
 blog.bit.ly
 blog.bitfinex.com
@@ -9693,7 +9693,6 @@ officedepot.com
 officespeech.platform.bing.com
 official-blog.line.me
 offs.ec
-og-cms.line.me
 ogcrawler.blog.naver.com
 oge.la
 ogp.me
